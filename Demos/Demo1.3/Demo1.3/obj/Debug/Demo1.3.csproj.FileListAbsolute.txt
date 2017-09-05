@@ -1,0 +1,44 @@
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Bot Application1.dll.config
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Bot Application1.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Bot Application1.pdb
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Autofac.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Chronic.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Builder.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Connector.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Newtonsoft.Json.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Net.Http.Formatting.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Web.Http.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Web.Http.WebHost.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Autofac.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Builder.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.Bot.Connector.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\Newtonsoft.Json.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Net.Http.Formatting.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Web.Http.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\System.Web.Http.WebHost.xml
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\obj\Debug\Demo1.3.csprojResolveAssemblyReference.cache
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\obj\Debug\Demo1.3.csproj.CoreCompileInputs.cache
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\obj\Debug\Bot Application1.dll
+C:\Conversations as a Platform\Session 1 - Exploring CaaP\Solutions\Demo1.3\Demo1.3\obj\Debug\Bot Application1.pdb

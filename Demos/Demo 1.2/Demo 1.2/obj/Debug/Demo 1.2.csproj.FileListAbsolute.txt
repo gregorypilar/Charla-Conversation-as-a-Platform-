@@ -1,0 +1,44 @@
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Bot Application.dll.config
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Bot Application.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Bot Application.pdb
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Autofac.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Chronic.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Builder.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Connector.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Newtonsoft.Json.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Net.Http.Formatting.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Web.Http.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Web.Http.WebHost.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Autofac.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Builder.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.Bot.Connector.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\Newtonsoft.Json.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Net.Http.Formatting.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Web.Http.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\System.Web.Http.WebHost.xml
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\it\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\nl\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\obj\Debug\Demo 1.2.csprojResolveAssemblyReference.cache
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\obj\Debug\Demo 1.2.csproj.CoreCompileInputs.cache
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\obj\Debug\Bot Application.dll
+c:\users\grego\documents\visual studio 2017\Projects\Demo 1.2\Demo 1.2\obj\Debug\Bot Application.pdb
